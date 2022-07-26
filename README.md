@@ -1,7 +1,7 @@
-# DIO - Repositorio de Projeto sobre Git/Github
+# DIO - Repositorio de Projeto sobre os cursos
 ![DIO](https://hermes.digitalinnovation.one/assets/diome/logo.png)
 
-## Desafio de Projeto sobre Git/Github
+## Desafio de Projetos
 
 
 ### Links Uteis
