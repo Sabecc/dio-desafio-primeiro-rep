@@ -1,6 +1,7 @@
 # DIO - Repositorio de Projeto sobre Git/Github
-![] (https://hermes.digitalinnovation.one/assets/diome/logo.png)
-Desafio de Projeto sobre Git/Github
+![DIO](https://hermes.digitalinnovation.one/assets/diome/logo.png)
+
+## Desafio de Projeto sobre Git/Github
 
 
 ### Links Uteis
